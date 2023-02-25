@@ -45,5 +45,6 @@
 
 ## Contributors
 
-- [Ajay Gupta](https://github.com/ajayjgupta)
 - [Prasoon Mahawar](https://github.com/prasoonmhwr)
+- [Ajay Gupta](https://github.com/ajayjgupta)
+
