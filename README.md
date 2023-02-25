@@ -1,52 +1,49 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Risk Anaylsis for lending loans to the consumer, by considering the possibility of a consumer to be a defaulter on the basis of data provided.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contributors](#contributors)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+  Conducted Analysis with the following technique
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Data Cleaning
+- Data Manipulation
+- Univariate Analysis
+- Segmented Univariate
+- Bivariate Analysis
+- Data Visualization
+- Summary of the all the analysis
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Most loans were taken for the purpose of debt_consolidation.
+- Most loans were taken of grade B.
+- Most loans were taken by person Renting a house.
+- Most of the loans defaulters are people without owning house.
+- Loans of grade G,F,E with higher interest rate are more likely to default.
+- People with lower annual income are more likely to deafult.
+- Loans with higher interest rate are more likely to default.
+- People with less number of open account and less number of total account are more likely to default.
+- People with experince less than 1 year are more likely to default.
+- Loan taken with purpose as small_business and renewable energy are more likely to default but the highest number of loans defaulted were taken for debt_consolidation purpose.
+- 2011 was a different year with highest number of defaulted loans.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Python 
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Contributors
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+- [Ajay Gupta](https://github.com/ajayjgupta)
+- [Prasoon Mahawar](https://github.com/prasoonmhwr)
